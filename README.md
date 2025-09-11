@@ -34,23 +34,6 @@ My Responsibilities: Implemented 50MHz to 1Hz clock divider, binary-to-7-segment
 Links:
 [https://drive.google.com/file/d/10smjEZmZK7zuFbVe0R21_7sr682iPNYy/view?usp=sharin]
 
-3. **Online Fashion Retail System**
-   
-Description: Implemented a complete online shopping system for fashion
-
-Technology Stack: 
-- Backend: Framework: Django (Python), API: Django REST Framework
-- Frontend & Admin Panel: Library: ReactJS
-- Database: MySQL
-
-My Responsibilities:
-- Product Module: Implemented product and variant CRUD APIs
-- Order Module: Built APIs for order creation, shipping info management
-
-Links:
-[https://drive.google.com/file/d/1NAKNh1QAWzdoJ9D3rxHi_6p3ocl0PEA2/view?usp=sharing]
-[https://github.com/baogiahoangle/fashion-store]
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baogiahoangle&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
